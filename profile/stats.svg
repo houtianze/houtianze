@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Hou Tianze's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 8582, Total Commits  (last year) : 7, Total PRs: 12, Total Issues: 5, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 8583, Total Commits  (last year) : 7, Total PRs: 12, Total Issues: 5, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 134.698013537601;
+        stroke-dashoffset: 134.69795732736142;
       }
     }
   
